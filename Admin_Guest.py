@@ -3,7 +3,7 @@ Inventory={
     "Phone":{"Name":"I-Phone","Price":200,"Stock":10}
 }
 # Admin Database and Control
-who_am_i=input("Are You Admin or Guest! \n").lower()
+who_am_i=input("Are You Admin or Customer! \n").lower()
 if who_am_i=="admin":
     password=input("Enter your password : ")
     if password=="Database@123":
