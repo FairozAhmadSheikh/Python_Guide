@@ -17,7 +17,7 @@ import math
 #         print("Invalid Credentials Attempts left : ",max_chances-min_chance)
 #         min_chance+=1
 #     if min_chance==max_chances:
-#         print("dafa javo ")
+#         print("Limit Exceeded ! Contact Admin ")
     
 
 sentance="I love eou"    
