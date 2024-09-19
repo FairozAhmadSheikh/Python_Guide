@@ -11,6 +11,7 @@ if who_am_i=="admin":
     else:
         print("Wrong Password ")
 else:
+    print("Welcome Customer")
     print(" Press 1 to order a Laptop")
     print(" Print 2 to order a Mobile")
 
