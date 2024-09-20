@@ -11,9 +11,6 @@ if who_am_i=="admin":
     else:
         print("Wrong Password ")
 else:
-    customer=input("Enter Your Name Please: ") or "Unknown Customer"
-    message="Welcome "+customer
-    print(message.center(30,"="))
     print(" Press 1 to order a Laptop")
     print(" Press 2 to order a Mobile")
 
